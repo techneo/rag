@@ -1,0 +1,5 @@
+pymupdf
+requests 
+numpy 
+faiss-cpu
+streamlit 
